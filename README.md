@@ -5,8 +5,7 @@
 
 ## About Me 🤷🏻‍♂️
 
-* 📱 Developer web & mobile 
-* 🔭 I’m currently working on eSolution Tecnologia / SóFalta.eu
+* 📱 Software Engineer
 * 🌱 I’m currently learning
 	- TypeScript
 	- Docker
